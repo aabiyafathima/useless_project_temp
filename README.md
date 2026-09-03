@@ -60,12 +60,11 @@ Or, if using VS Code, launch the project with Live Server and open the provided 
 For Software:
 
 # Screenshots (Add at least 3)
-c:\Users\Dell\Pictures\Screenshots\Start screen.png *Start screen that displays at the beginning*
+*Start screen that displays at the beginning*
 
-c:\Users\Dell\Pictures\Screenshots\Round 1.png
 *Game screen*
 
-c:\Users\Dell\Pictures\Screenshots\Score screen.png
+
 *Final screen displaying points*
 
 # Diagrams
